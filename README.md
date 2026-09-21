@@ -34,6 +34,6 @@ Sistema desarrollado para clasificar y explicar patrones emocionales en la voz a
 Este proyecto analiza clips de audio para identificar características vocales relevantes y relacionarlas con emociones básicas. Utiliza un enfoque híbrido que combina aprendizaje profundo con modelos de interpretabilidad (como árboles de decisión surrogados y selección de variables Lasso) para hacer el proceso transparente y explicable.
 
 ## 📂 Estructura del Repositorio
-* `Docs/Imagenes/`: Carpeta que contiene las capturas de pantalla de la interfaz y los gráficos de los resultados.
-* `results/`: Archivos CSV con los resultados de la comparación de embeddings y métricas de desempeño[cite: 5].
-* `surrogate/`: Modelos entrenados (`.pkl`), reglas del árbol surrogado (`.txt`) y tablas de características relevantes[cite: 5].
+* `Docs/`: Carpeta que contiene los archivos originales de la vista de usuario en rar, la presentación, capturas de pantalla de la interfaz y los gráficos de los resultados.
+* `results/`: Archivos CSV con los resultados de la comparación de embeddings y métricas de desempeño.
+* `surrogate/`: Modelos entrenados (`.pkl`), reglas del árbol surrogado (`.txt`) y tablas de características relevantes.
