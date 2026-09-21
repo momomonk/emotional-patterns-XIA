@@ -1,0 +1,62 @@
+embedding_feature,mse,r2,n_vars_used,used_vars
+feature_18489,5.529051537621279e-05,0.0011314759232613492,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_12383,9.107515865685062e-05,0.015353915261992146,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_2076,0.00010429830943679269,0.020600154626362444,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_30181,0.00010610602118312753,0.007050414915172554,5,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain', 'pcm_fftmag_spectralvariance_sma_meanrisingslope', 'pcm_fftmag_spectralvariance_sma_stddevrisingslope', 'pcm_fftmag_spectralvariance_sma_stddevfallingslope']"
+feature_7902,0.00011409428834759417,0.001599880135079168,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_4089,0.00011561950913276509,0.0019944753237792767,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_4283,0.00014822906559267522,0.0045334310125512145,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_123357,0.00017318436704186137,0.0037546586783268054,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_141829,0.0002091790204808001,0.034578563810923835,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_143867,0.0003137457433673554,0.005113950806523659,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_92993,0.0003328670631518539,0.00301530088140467,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_93465,0.0003878796306900218,0.0026936846127754155,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_31067,0.00040548352506177655,0.008223358076940523,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_41055,0.0004730379887738007,0.007923130239476994,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_97204,0.0004849703962121205,0.001244358155593761,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_141090,0.0005684403786791901,0.015445840240742914,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_14488,0.0005724645517394958,0.0,0,[]
+feature_147608,0.00057686239018796,0.010277888050465589,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_120495,0.0006646290958482065,0.0038982479162201766,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_127153,0.0007439086988390489,0.0010554987650972514,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_103304,0.0007460868316259668,0.0,0,[]
+feature_10843,0.0007631995462095778,0.012808671619241152,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_118278,0.0007765174472230455,0.0020137492557946723,3,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain', 'pcm_fftmag_spectralvariance_sma_stddevrisingslope']"
+feature_47595,0.0008621547544998395,0.0,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_10682,0.0009362724752309682,0.0,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_35902,0.0009534768650317159,0.0,0,[]
+feature_120634,0.0009858465121038635,0.014423175849237468,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_90371,0.0009951776841069361,0.0035545502476238555,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_41208,0.0010166569196355358,0.0,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_51807,0.0011461295234005925,0.0067856172995875985,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_23074,0.0011527720185104757,0.0,0,[]
+feature_42545,0.0011964553404171109,0.005625987493619533,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_116707,0.0012843413097729575,0.0,0,[]
+feature_90249,0.0013890195460208692,0.011294112715579563,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_41885,0.0015155487028888242,0.023009258514216202,4,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain', 'pcm_fftmag_spectralvariance_sma_meanrisingslope', 'pcm_fftmag_spectralvariance_sma_meanfallingslope']"
+feature_529,0.0015357728016351718,0.0,0,[]
+feature_140477,0.0016643859103133278,0.019525641971779972,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_28413,0.0017688034492819294,0.002066189566931498,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_41525,0.0018652349648902405,0.0,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_145530,0.0018781302877796397,0.0041427891203408285,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_533,0.001889346137638597,0.005915940484271576,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_100554,0.0019016109166733986,0.020276155430771547,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_42929,0.0020721491719623373,0.0,0,[]
+feature_44044,0.0022392487378599365,0.0002772736470640913,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_140314,0.0024223333282297798,0.0008997237407112335,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_25912,0.002501123140403469,0.007373720822521745,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_21924,0.002751223318884011,0.003390041978959202,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_28332,0.0028224512887556727,0.009423787215714352,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_50934,0.003006116688413482,0.020796397308310732,4,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain', 'pcm_fftmag_spectralvariance_sma_meanrisingslope', 'pcm_fftmag_spectralvariance_sma_de_meanfallingslope']"
+feature_100226,0.0037825608062226892,0.006102257230751307,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_22686,0.0039019793876614683,0.009121660697762768,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_20666,0.004136146590133982,0.002809604034206048,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_55460,0.004197058766124873,0.0029199406772680847,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_50448,0.004210370890410562,0.01736219206348566,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_20678,0.0050167457664468135,0.009981402998163524,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_90397,0.005864509153113082,0.0,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_50452,0.006412146593027088,0.0027706188130729448,3,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain', 'pcm_fftmag_spectralvariance_sma_meanfallingslope']"
+feature_38422,0.006933192751981451,0.0062178112077504455,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_50460,0.011824955872215914,0.00867713372461143,1,['pcm_fftmag_spectralvariance_sma_lpgain']
+feature_90702,0.013893324699500746,0.027857006244543903,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
+feature_110372,0.02652629418861541,0.04011881801734585,2,"['pcm_fftmag_spectralvariance_sma_lpgain', 'pcm_fftmag_spectralvariance_sma_de_lpgain']"
