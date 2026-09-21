@@ -1,6 +1,6 @@
 # Detección y Explicación de Patrones Emocionales en la Voz (Escenas de Películas)
 
-Sistema desarrollado para clasificar y explicar patrones emocionales en la voz a partir de escenas de películas, empleando redes neuronales y clasificadores interpretativos[cite: 5].
+Sistema desarrollado para clasificar y explicar patrones emocionales en la voz a partir de escenas de películas, empleando redes neuronales y clasificadores interpretativos.
 
 ---
 
@@ -31,7 +31,7 @@ Sistema desarrollado para clasificar y explicar patrones emocionales en la voz a
 ---
 
 ## 📌 Descripción del Proyecto
-Este proyecto analiza clips de audio para identificar características vocales relevantes y relacionarlas con emociones básicas. Utiliza un enfoque híbrido que combina aprendizaje profundo con modelos de interpretabilidad (como árboles de decisión surrogados y selección de variables Lasso) para hacer el proceso transparente y explicable[cite: 5].
+Este proyecto analiza clips de audio para identificar características vocales relevantes y relacionarlas con emociones básicas. Utiliza un enfoque híbrido que combina aprendizaje profundo con modelos de interpretabilidad (como árboles de decisión surrogados y selección de variables Lasso) para hacer el proceso transparente y explicable.
 
 ## 📂 Estructura del Repositorio
 * `Docs/Imagenes/`: Carpeta que contiene las capturas de pantalla de la interfaz y los gráficos de los resultados.
